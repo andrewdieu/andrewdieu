@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andrew Dieu
 #### I attend the University of Houston
-![I attend the University of Houston](https://i.imgur.com/3Jjcl4u.png)
+![I attend the University of Houston](https://i.imgur.com/YFyKUoU.png)
 
 - 👋 Hi, I’m @andrewdieu
 - 👀 I’m interested in computer science

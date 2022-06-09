@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://andrewdieu.dev" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm currently a Computer Science at the University of Houston!
+I'm currently a Computer Science Student at the University of Houston!
 </h2> 
 
 - 👋 Hi, I’m @andrewdieu

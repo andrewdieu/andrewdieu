@@ -12,7 +12,7 @@ I'm currently a Computer Science Student at the University of Houston!
 
 - 👋 Hi, I’m @andrewdieu
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on anything (:
 - 📫 Reach me at andrewdieu2011@gmail.com
 

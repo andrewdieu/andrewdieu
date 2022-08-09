@@ -11,7 +11,7 @@ I'm currently a Computer Science Student at the University of Houston!
 </h2> 
 
 - 👋 Hi, I’m @andrewdieu
-- 👀 I’m interested in computer science
+- 👀 I’m interested in creating and discovering new things!
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on anything (:
 - 📫 Reach me at andrewdieu2011@gmail.com

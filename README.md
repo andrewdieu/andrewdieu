@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/YFyKUoU.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://andrewdieu.netlify.app/" target="_blank" rel="noreferrer">Andrew</a> 👋
 </h3>

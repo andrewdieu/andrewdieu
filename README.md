@@ -1,6 +1,6 @@
 ### Hi, I'm [Andrew](https://andrewdieu.netlify.app/)! 🤠
 
-Former SWE Intern at [Microsoft Azure](https://azure.microsoft.com/en-us) ☁️<br>
+Former SWE Intern at [Microsoft](https://microsoft.com/en-us) ☁️ and [Asana](https://asana.com/) 📋<br>
 Current student at the [University of Houston](https://www.uh.edu/) 🤓<br>
 
 - ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.py`, `.js`, `.html`, `.css `, `.ts`
